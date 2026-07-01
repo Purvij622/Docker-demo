@@ -18,9 +18,10 @@ lib/
 lib64/
 parts/
 sdist/
+airflow-demo/
 var/
 wheels/
-share/python-wheels/
+share/python-wheel/
 *.egg-info/
 .installed.cfg
 *.egg
